@@ -8,7 +8,7 @@
   built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>
 </p>
 <p align="center">
-  <a href="https://rahatsayyed.netlify.app/" target="_blank">
+  <a href="https://amanqureshi.netlify.app/" target="_blank">
     <img src="https://api.netlify.com/api/v1/badges/61a3f728-1bca-45db-a790-266dca2c5cbc/deploy-status" alt="Netlify Status" />
   </a>
 </p>
